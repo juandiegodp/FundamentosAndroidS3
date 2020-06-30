@@ -1,0 +1,4 @@
+<resources>
+    <string name="texto">¡Hola! \n ¡Yo soy Juan Diego!</string>
+    <string name="boton">¡Entrar!</string>
+</resources>
