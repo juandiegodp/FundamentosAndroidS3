@@ -1,4 +1,31 @@
+
+// Mensaje y boton por default
 <resources>
     <string name="texto">¡Hola! \n ¡Yo soy Juan Diego!</string>
     <string name="boton">¡Entrar!</string>
 </resources>
+
+
+//Mensaje y boton en ingles
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="texto">¡Hello! \n ¡I am Juan Diego!</string>
+    <string name="boton">¡Enter!</string>
+</resources>
+
+
+//Mensaje y boton en Frances
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="texto">¡Bonjour! \n ¡Je m'appelle Juan DIego!</string>
+    <string name="boton">¡Entrer!</string>
+</resources>
+
+
+//Mensaje y boton en Aleman
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="texto">¡Hallo! \n ¡Ich heiße Juan Diego!</string>
+    <string name="boton">¡Reinkommen!</string>
+</resources>
+
